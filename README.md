@@ -7,6 +7,8 @@ dentro del mismo encontraran cinco carpetas:
     temática portfolio con HTML-CSS-JQUERY.
     Está el 80% resuelto faltan algunas imágenes que se encuentran en el original.
     
+    HTML: 30%
+
     la url original de este template es: "http://www.11-76.com/themes/cardex/"
     
 ## Exena
